@@ -9,7 +9,7 @@ print("|  \/  |_   _|_ _|  _ \ ")
 print("| |\/| | | | || || |_) |")
 print("| |  | | |_| || ||  __/ ")
 print("|_|  |_|\__, |___|_|    ")
-print("        |___/           ")
+print("        |___/             V1.5 ")
 
 
 hostname = socket.gethostname()
